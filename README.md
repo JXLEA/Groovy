@@ -1,2 +1,2 @@
 # Groovy
-Touch the groovy, calculator with flexible operation-oriented functions;
+Groovy syntax checkup, calculator with flexible operation-oriented functions;
