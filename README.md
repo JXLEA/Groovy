@@ -1,2 +1,2 @@
 # Groovy
-Groovy syntax lookup by writing calculator, flexible operation-oriented functions;
+Groovy syntax check up, by calculator writing with flexible operation-oriented functions;
