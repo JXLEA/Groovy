@@ -9,4 +9,4 @@ for example expression:
 will be parsed like this
  1. find the "deepest" expression in brackets (5/4)
  2. start searching for "higher" level brackets and apply operations
- 3. when the brackets are finished, start execution of the operation in order to Math priority for `* / + -`  
+ 3. When the expressions in brackets are over, start the operation in the order of priority Math  `* / + -`  
