@@ -1,5 +1,5 @@
 # Groovy
-Groovy syntax check-up, by writing a calculator with flexible operation-oriented functions;
+Groovy checkup, by writing a calculator with flexible operation-oriented functions;
 
 Flexibility is achieved due to the `Chain-of-responsibility` internal usage
 of the math operations combined in the sequential chain, that's how prioritizing mathematical operations keeps on.
